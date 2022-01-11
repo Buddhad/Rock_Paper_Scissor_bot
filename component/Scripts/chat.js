@@ -2,7 +2,6 @@ var convo = {
   ice: {
     says: [
       'Hello!',
-      "Let's Start Play Rock Paper Scissor game With<em> me</em>.",
       '<img src= https://cdn.discordapp.com/attachments/926055068271251467/926055266561163274/bot-hi.gif />',
     ],
 
@@ -158,7 +157,7 @@ var convo = {
   end: {
     says: [
       'Thanks for your time and attention.',
-      '<img src=https://cdn.discordapp.com/attachments/926055068271251467/930428415876685904/overgame.gif>',
+      '<img src=https://cdn.discordapp.com/attachments/926055068271251467/930435093586128957/byee.gif>',
       'The chat is over, but you can <strong>start over</strong> to see how this conversation could have gone differently.',
     ],
     reply: [
